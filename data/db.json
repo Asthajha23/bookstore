@@ -158,31 +158,43 @@
     },
     {
       "id": 10013,
-      "name": "Deep Learning with TensorFlow",
-      "overview": "Unlock the power of deep learning with TensorFlow, the leading machine learning framework.",
-      "long_description": "Discover the world of deep learning with TensorFlow, the leading machine learning framework. From image classification to natural language processing, this course covers a wide range of topics to help you become proficient in deep learning.",
-      "price": 49,
-      "poster": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "name": "Everything About React v16",
+      "overview": "Learn everything you need to know about React version 16, covering advanced concepts and best practices for building powerful web applications.",
+      "long_description": "Become proficient in React v16 with this comprehensive course. Learn about hooks, context API, error boundaries, and more. Master techniques for state management, routing, and optimizing performance to create scalable and maintainable React applications.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
       "image_local": "/assets/images/10013.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 5,
-      "best_seller": true
-    },
-    {
-      "id": 10014,
-      "name": "Node.js Essentials",
-      "overview": "Master Node.js, the JavaScript runtime, with this essential course for web developers.",
-      "long_description": "Get up to speed with Node.js, the JavaScript runtime built on Chrome's V8 JavaScript engine. Whether you're building web servers or command-line tools, this course covers everything you need to know to become proficient in Node.js development.",
-      "price": 29,
-      "poster": "https://images.unsplash.com/photo-1532009324734-20a7a5813719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10014.avif",
       "rating": 4,
-      "in_stock": true,
+      "in_stock": false,
       "size": 3,
       "best_seller": false
     },
-
+    {
+      "id": 10014,
+      "name": "Diving Deep With Python 2.7",
+      "overview": "Delve deep into Python 2.7 with advanced topics and practical examples.",
+      "long_description": "Explore the depths of Python 2.7 with this advanced course. Discover topics such as metaprogramming, concurrency, and Pythonic patterns. Gain hands-on experience with real-world projects and enhance your Python skills to the next level.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Kickstart Your UI Design Career",
+      "overview": "Jumpstart your career in UI design, learning essential principles and tools from industry experts.",
+      "long_description": "Embark on a journey to kickstart your UI design career with this comprehensive course. Learn fundamental design principles, typography, color theory, and layout techniques. Gain hands-on experience with industry-standard tools like Adobe XD and Figma. Build a solid foundation in UI design and launch your career with confidence.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    },
     {
       "id": 10016,
       "name": "HTML5 Mastery: A Comprehensive Guide",
@@ -209,7 +221,6 @@
       "size": 3,
       "best_seller": false
     }
-    
   ],
   "featured_products": [
     {
